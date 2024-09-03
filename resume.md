@@ -48,7 +48,7 @@
 
 ### Languages and Skills:
 * <img src="img/FlagGermany.svg" width="20"> **German:** Native
-* <img src="img/FlagUKUS.png" width="20"> **English:** Fluent (C1, TOEFL)
+* <img src="img/FlagUKUS.png" width="20"> **English:** Fluent (C1 in TOEFL test)
 * <img src="img/flagfrance.svg" width="20"> **French:** Intermediate (B1-B2)
 
 
