@@ -3,19 +3,19 @@
   <h1>Anna Meier</h1>
 </div>
 
-## Student in Geography
+## Student of Geography
 
 ---
 
 ### Education
-* **2021 - Present: Master of Science in Geography**  
+* **2021 - Now: Master of Science in Geography**  
   * [University of Bern][Bern]  
   * Exchange Student at [Appalachian State University](https://www.appstate.edu/)
     * _Focus on Physical Geography and GIS_
 * **2018 - 2021: Bachelor of Science in Geography**  
   * [University of Bern][Bern]  
     * _Minor Subjects: Physics and Geology_
-* **2020 - 2022: Expedition Team Member**  
+* **2020 - 2022: Team Member of the Swiss Expedition Team**  
   * [Swiss Alpine Club](https://www.sac-cas.ch/en/)
 * **2014 - 2018: High School Diploma**  
   * [Gymnasium Kirschgarten][Kirschgarten]  
@@ -46,7 +46,7 @@
 
 ---
 
-##### Languages and Skills:
+### Languages and Skills:
 * <img src="img/FlagGermany.svg" width="20"> **German:** Native
 * <img src="img/FlagUKUS.png" width="20"> **English:** Fluent (C1, TOEFL)
 * <img src="img/flagfrance.svg" width="20"> **French:** Intermediate (B1-B2)
