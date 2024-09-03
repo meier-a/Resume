@@ -1,13 +1,13 @@
 <div style="background-color: #D3D3D3; padding: 10px; width: 100%;"> 
   <!-- For making a gray box -->
-  <h2>Anna Meier</h2>
+  <h1>Anna Meier</h1>
 </div>
 
-#### Student in Geography
+## Student in Geography
 
 ---
 
-##### Education
+### Education
 * **2021 - Present: Master of Science in Geography**  
   * [University of Bern][Bern]  
   * Exchange Student at [Appalachian State University](https://www.appstate.edu/)
@@ -26,7 +26,7 @@
 
 ---
 
-##### Professional Experience
+### Professional Experience
 * **2024: Climbing and Bouldering Teacher**
   <span style="color: gray;">University of Basel</span>
 * **2023 - 2024: Climbing Sports Teacher**
@@ -49,7 +49,7 @@
 ##### Languages and Skills:
 * <img src="img/FlagGermany.svg" width="20"> **German:** Native
 * <img src="img/FlagUKUS.png" width="20"> **English:** Fluent (C1, TOEFL)
-* <img src="img/FlagFrance.svg" width="20"> **French:** Intermediate (B1-B2)
+* <img src="img/flagfrance.svg" width="20"> **French:** Intermediate (B1-B2)
 
 
 * **Microsoft Excel, Word, LaTeX:** Excellent
