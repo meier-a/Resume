@@ -8,11 +8,12 @@
 ---
 
 ### Education
-* **2021 - Now: Master of Science in Geography**  
+* **2022 - 2025: Master of Science in Geography**  
   * [University of Bern][Bern]  
   * Exchange Student at [Appalachian State University](https://www.appstate.edu/)
     * _Focus on Physical Geography and GIS_
-* **2018 - 2021: Bachelor of Science in Geography**  
+    * _Master Thesis in Mountain Hydrology_
+* **2018 - 2022: Bachelor of Science in Geography**  
   * [University of Bern][Bern]  
     * _Minor Subjects: Physics and Geology_
 * **2020 - 2022: Team Member of the Swiss Expedition Team**  
@@ -27,15 +28,15 @@
 ---
 
 ### Professional Experience
-* **2024: Climbing and Bouldering Teacher**
+* **02/2024 - 06/2024: Climbing and Bouldering Teacher**
   <span style="color: gray;">University of Basel</span>
-* **2023 - 2024: Climbing Sports Teacher**
+* **08/2023 - 07/2024: Climbing Sports Teacher**
   <span style="color: gray;">Gymnasium Kirschgarten</span>
 * **2021 - 2023: Trainer**  
   <span style="color: gray;">Northwest Switzerland Regional Sport Climbing Center</span>
-* **2018 - 2024: Climbing Instructor and Route Setter**  
-  <span style="color: gray;">Climbing Gym 7, Basel</span>
-* **2018 - 2024: Tour Guide** 
+* **2018 - Now: Climbing Instructor and Route Setter**  
+  <span style="color: gray;">Climbing Gym Kletterhalle 7, Basel</span>
+* **2018 - 2024: Climbing and Tour Guide** 
   <span style="color: gray;">Swiss Alpine Club Basel</span>
 * **2018 - 2019: Assistant Teacher for Climbing in Sports** 
   <span style="color: gray;">Gymnasium Kirschgarten</span>
@@ -54,3 +55,4 @@
 
 * **Microsoft Excel, Word, LaTeX:** Excellent
 * **Python, R:** Proficient
+* **CSS, HTML, JavaScript:** Basics
